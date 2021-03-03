@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h2 align="center"> Welcome to Mithun Software Solutions. MSS-  Please give your reviews in FB and Google.</h2>
+<h2 align="center">MSS:Very good for devops training.Please give your reviews in FB and Google.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
