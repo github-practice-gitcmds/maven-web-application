@@ -38,11 +38,8 @@ sshagent(['333211d0-01ab-413b-a0c7-10adae1d2789'])
 
 stage('SendEmailNotification')
 {
-mail bcc: 'nagavaishnavik2020@gmail.com', body: '''Build Over...
+mail bcc: '', body: '', cc: '', from: '', replyTo: '', subject: '', to: 'vaishvk.48@gmail.com'
 
-Regards,
-Mithun Technologies,
-9980923226''', cc: '', from: '', replyTo: '', subject: 'Build Over!!', to: 'nagavaishnavik2020@gmail.com'
 }
 
 
