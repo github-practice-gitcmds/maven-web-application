@@ -38,7 +38,7 @@ sshagent(['333211d0-01ab-413b-a0c7-10adae1d2789'])
 
 stage('SendEmailNotification')
 {
-mail bcc: '', body: '', cc: '', from: '', replyTo: '', subject: '', to: 'vaishvk.48@gmail.com'
+mail bcc: '', body: 'Build Success', cc: '', from: '', replyTo: '', subject: 'Build Success', to: 'vaishvk.48@gmail.com'
 
 }
 
