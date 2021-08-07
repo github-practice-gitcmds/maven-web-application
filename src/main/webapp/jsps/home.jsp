@@ -9,8 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h2 align="center">MSS:Very good for devops training.Please give your reviews in FB and Google.</h2>
+<h1 align="center">Welcome to Vaish Software Solutions.</h1>
+<h2 align="center">Gthub web hooks demo develpment</h2>
+	
 <hr>
 <div style="text-align: left;">
 	<span>
