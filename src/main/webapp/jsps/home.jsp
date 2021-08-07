@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mithun Technologies New- Home Page</title>
+<title>Mithun Technologies Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Mithun Software Solutions.</h1>
 <h2 align="center">MSS:Very good for devops training.Please give your reviews in FB and Google.</h2>
 <hr>
-<div style="text-align: center;">
+<div style="text-align: left;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
@@ -20,7 +20,7 @@
 		Mithun Software Solutions, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226xxxxxxxxxx,
+		+91-9876543210,
 		devopstrainingbr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
